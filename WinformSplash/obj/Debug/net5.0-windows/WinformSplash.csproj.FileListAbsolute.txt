@@ -1,0 +1,9 @@
+C:\Users\dam201\source\repos\WinformSplash\WinformSplash\obj\Debug\net5.0-windows\WinformSplash.csproj.AssemblyReference.cache
+C:\Users\dam201\source\repos\WinformSplash\WinformSplash\obj\Debug\net5.0-windows\WinformSplash.FormPrincipal.resources
+C:\Users\dam201\source\repos\WinformSplash\WinformSplash\obj\Debug\net5.0-windows\WinformSplash.FormSplash.resources
+C:\Users\dam201\source\repos\WinformSplash\WinformSplash\obj\Debug\net5.0-windows\WinformSplash.Properties.Resources.resources
+C:\Users\dam201\source\repos\WinformSplash\WinformSplash\obj\Debug\net5.0-windows\WinformSplash.csproj.GenerateResource.cache
+C:\Users\dam201\source\repos\WinformSplash\WinformSplash\obj\Debug\net5.0-windows\WinformSplash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dam201\source\repos\WinformSplash\WinformSplash\obj\Debug\net5.0-windows\WinformSplash.AssemblyInfoInputs.cache
+C:\Users\dam201\source\repos\WinformSplash\WinformSplash\obj\Debug\net5.0-windows\WinformSplash.AssemblyInfo.cs
+C:\Users\dam201\source\repos\WinformSplash\WinformSplash\obj\Debug\net5.0-windows\WinformSplash.csproj.CoreCompileInputs.cache
